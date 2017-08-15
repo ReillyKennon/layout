@@ -1,0 +1,14 @@
+div {
+  background-color: blue;
+  display: inline-block;
+  width: 100px;
+  height: 300px;
+  vertical-align: top;
+
+}
+button {
+  display: block;
+  margin: auto;
+  padding: 10px;
+
+}
